@@ -80,5 +80,5 @@ var someDate = new Date();
 //someDate.setDate(someDate.getDate() + numberOfDaysToAdd);
 
 //Countdown with real date
-var someDate = new Date("April 31, 2019 23:59:59");
+var someDate = new Date("April 30, 2019 23:59:59");
 someDate.setDate(someDate.getDate());
