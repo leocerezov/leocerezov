@@ -84,6 +84,16 @@ a, button
     -o-transition: all 0.2s ease-in-out;
     transition: all 0.2s ease-in-out;
 }
+a.link
+{
+    color: #000000;
+    text-decoration: none;
+}
+a.link:hover 
+{
+    text-decoration: none;
+    color: #0E1450;
+}
 
 /*********************************/
 /*********** Countdown ***********/
